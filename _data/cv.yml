@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Haoze SONG
     - name: Date of Birth
       value: 14th March 1879
     - name: Languages
-      value: English, German
+      value: English, German, Mandarin Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD Candidate in Data Science and Analytics
+      institution: The Hong Kong University of Science and Technology (Guangzhou), Guangzhou, Guangdong, China
+      year: 2023
       description:
         - Description 1.
         - Description 2.
